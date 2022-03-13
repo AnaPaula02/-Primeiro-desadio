@@ -1,4 +1,4 @@
-# -Primeiro-desafio do projeto de GIT
+# Primeiro desafio do projeto de GIT
 Repositório para o desafio do projeto 
 
 ##Linkes úteis
